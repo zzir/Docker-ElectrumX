@@ -1,0 +1,3 @@
+https://mirrors.aliyun.com/alpine/latest-stable/main
+https://mirrors.aliyun.com/alpine/latest-stable/community
+https://mirrors.aliyun.com/alpine/edge/testing/
